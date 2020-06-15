@@ -4,7 +4,6 @@ def base_hash
   First Hash = {
     railroads: []
   }
-
 end
 
 def monopoly_with_second_tier
