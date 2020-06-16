@@ -20,7 +20,17 @@ def monopoly_with_second_tier
 first_hash[:pieces] = 
 {4}
 ]
+first_hash[:rent_in_dollars] = 
+{
+  
+}
 
+]
+first_hash[:names] = 
+{
+  
+}
+]
 end
 
 def monopoly_with_third_tier
